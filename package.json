@@ -1,0 +1,19 @@
+{
+  "private": false,
+  "name": "realjay-array-group",
+  "version": "0.0.1",
+  "description": "This is a vue plugin created to help group array objects by specified key",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "bili --name index"
+  },
+  "author": "Nwachukwu James",
+  "license": "MIT",
+  "files": [
+    "dist/*"
+  ],
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.2",
+    "bili": "^5.0.5"
+  }
+}
