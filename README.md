@@ -39,6 +39,8 @@ console.log(grouped)
 
 <img src="groupd_items.PNG" width="400" alt="output image" />
 
+<a href="https://github.com/myrealjay/realjay-array-group/blob/master/groupd_items.PNG">Github Link</a>
+
 usage format
 ```
 this.$group_array(array,key,format)
