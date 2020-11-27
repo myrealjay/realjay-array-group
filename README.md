@@ -37,9 +37,9 @@ let grouped=this.$group_array(array,'name','object');
 console.log(grouped)
 ```
 
-<img src="https://github.com/myrealjay/realjay-array-group/blob/master/groupd_items.PNG" width="400" alt="output image" />
+<img src="https://github.com/myrealjay/realjay-array-group/blob/master/groupd_items.PNG?raw=true" width="400" alt="output image" />
 
-<a href="https://github.com/myrealjay/realjay-array-group">Github Link</a>
+Fint it on the <a href="https://github.com/myrealjay/realjay-array-group">Github Link</a>
 
 usage format
 ```
@@ -50,4 +50,4 @@ this.$group_array(array,key,format)
 |---------|----|-----------|-------|
 |array    |array|This is the array of objects that you want to group|none|
 |key      |string|The key to group by|none|
-|format   |string|The format to return the result in|object|
+|format   |string|The format to return the result in. available options are array and object|object|

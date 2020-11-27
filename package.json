@@ -1,7 +1,7 @@
 {
   "private": false,
   "name": "realjay-array-group",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "This is a vue plugin created to help group array objects by specified key",
   "main": "./dist/index.js",
   "scripts": {

@@ -1,5 +1,5 @@
 /*!
- * realjay-array-group v0.0.3
+ * realjay-array-group v0.0.4
  * (c) Nwachukwu James
  * Released under the MIT License.
  */
